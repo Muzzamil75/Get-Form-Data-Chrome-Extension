@@ -7,7 +7,7 @@ I aim to incorporate what I learned here to use in my food hygiene rating chrome
 
 ## Installation
 
-`git clone git@github.com:LondonJim/Get-Form-Data-Chrome-Extension.git`
+`git clone https://github.com/Muzzamil75/Get-Form-Data-Chrome-Extension`
 
 Currently to install you will have to enter developer mode on your chrome extensions page.
 
